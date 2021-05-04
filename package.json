@@ -12,20 +12,20 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:my-debug-texteditor.helloWorld"
+    "onCommand:comment-frame-generator.generateFrame"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "my-debug-texteditor.helloWorld",
-        "title": "Hello World"
+        "command": "comment-frame-generator.generateFrame",
+        "title": "Generate a comment frame"
       }
     ],
     "menus": {
       "editor/context": [
         {
-          "command": "my-debug-texteditor.helloWorld",
+          "command": "comment-frame-generator.generateFrame",
           "when": "resourceLangId == python",
           "group": "1_modification"
         }
