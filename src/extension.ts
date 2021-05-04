@@ -53,8 +53,13 @@ export function activate(context: vscode.ExtensionContext) {
 
 				}
 				editor.edit(func);
-				// vscode.window.showInformationMessage(String(position.line));
-				// vscode.window.showInformationMessage(String(position.character));
+				vscode.window.showInformationMessage(
+					"SUCCEEDED: text flame generated."
+				);
+			} else {
+				vscode.window.showInformationMessage(
+					"FAILED: text on cursor line does not start \"#\"."
+				);
 			};
 		}
 
