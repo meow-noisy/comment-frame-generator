@@ -2,7 +2,7 @@
   "name": "comment-frame-generator",
   "displayName": "comment-frame-generator",
   "description": "add a frame to an inline comment",
-  "version": "0.0.1rc",
+  "version": "0.0.1",
   "publisher": "meow-noisy",
   "license": "MIT",
   "engines": {
