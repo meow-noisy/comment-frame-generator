@@ -8,6 +8,10 @@
   "engines": {
     "vscode": "^1.55.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meow-noisy/comment-frame-generator"
+  },
   "categories": [
     "Other"
   ],
