@@ -12,8 +12,14 @@
     "type": "git",
     "url": "https://github.com/meow-noisy/comment-frame-generator"
   },
+  "bugs": {
+    "url": "https://github.com/meow-noisy/comment-frame-generator/issues"
+  },
   "categories": [
-    "Other"
+    "Snippets"
+  ],
+  "keywords": [
+    "python"
   ],
   "activationEvents": [
     "onCommand:comment-frame-generator.generateFrame"
