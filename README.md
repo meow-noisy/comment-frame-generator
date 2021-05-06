@@ -13,6 +13,9 @@ Move cursor on a comment which you want to add a frame, and
 ## Known Issues
 None
 
+
+When reporting issues, please register your issue on the github [issues](https://github.com/meow-noisy/comment-frame-generator/issues) page.
+
 ## Release Notes
 ### 0.0.1
 
