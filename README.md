@@ -9,6 +9,7 @@ Move cursor on a comment which you want to add a frame, and
 
 - Command: `Generate a comment frame`
 - Right click menu: `Generate a comment frame`
+- Shortcut key: `Alt + =`
 
 ## Known Issues
 None

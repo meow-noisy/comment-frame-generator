@@ -32,6 +32,12 @@
         "title": "Generate a comment frame"
       }
     ],
+    "keybindings": [
+      {
+        "command": "comment-frame-generator.generateFrame",
+        "key": "Alt+="
+      }
+    ],
     "menus": {
       "editor/context": [
         {
