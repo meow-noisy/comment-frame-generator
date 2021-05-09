@@ -2,12 +2,12 @@
   "name": "comment-frame-generator",
   "displayName": "comment-frame-generator",
   "description": "In a Python file, add a frame to an inline comment. This makes a code more readable.",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "publisher": "meow-noisy",
   "license": "MIT",
   "icon": "images/icon.png",
   "engines": {
-    "vscode": "^1.55.0"
+    "vscode": "^1.50.0"
   },
   "repository": {
     "type": "git",
