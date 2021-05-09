@@ -54,7 +54,7 @@ export function activate(context: vscode.ExtensionContext) {
 				}
 				editor.edit(func);
 				vscode.window.showInformationMessage(
-					"SUCCEEDED: text flame generated."
+					"SUCCEEDED: text frame generated."
 				);
 			} else {
 				vscode.window.showInformationMessage(
