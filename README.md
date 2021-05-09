@@ -1,5 +1,7 @@
 # Comment Frame Generator README
-Generating a comment frame for decorating an inline comment.
+Generating a comment frame for decorating an inline comment. Its frame's length follows the comment's length.
+
+![Comment Frame Generator](images/demo.gif)
 
 ## Features
 - Generate a frame which fit an inline comment length.
@@ -7,9 +9,9 @@ Generating a comment frame for decorating an inline comment.
 ## Usage
 Move cursor on a comment which you want to add a frame, and
 
-- Command: `Generate a comment frame`
-- Right click menu: `Generate a comment frame`
 - Shortcut key: `Alt + =`
+- Right click menu: `Generate a comment frame`
+- Command: `Generate a comment frame`
 
 ## Known Issues
 None
