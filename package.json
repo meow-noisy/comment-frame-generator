@@ -1,7 +1,7 @@
 {
   "name": "comment-frame-generator",
   "displayName": "comment-frame-generator",
-  "description": "add a frame to an inline comment",
+  "description": "In a Python file, add a frame to an inline comment. This makes a code more readable.",
   "version": "0.0.1",
   "publisher": "meow-noisy",
   "license": "MIT",
@@ -20,7 +20,8 @@
     "Snippets"
   ],
   "keywords": [
-    "python"
+    "python",
+    "comment"
   ],
   "activationEvents": [
     "onCommand:comment-frame-generator.generateFrame"

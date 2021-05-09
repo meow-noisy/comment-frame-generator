@@ -1,5 +1,6 @@
 # Comment Frame Generator README
-Generating a comment frame for decorating an inline comment. Its frame's length follows the comment's length.
+This is an extention for Python.
+Generating a comment frame for decorating  an inline comment. Its frame's length follows the comment's length.
 
 ![Comment Frame Generator](images/demo.gif)
 
