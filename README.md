@@ -10,7 +10,7 @@ Generating a comment frame for decorating  an inline comment. Its frame's length
 ## Usage
 Move cursor on a comment which you want to add a frame, and
 
-- Shortcut key: `Alt + =`
+- Shortcut key: `Ctrl+k Ctrl+e`
 - Right click menu: `Generate a comment frame`
 - Command: `Generate a comment frame`
 

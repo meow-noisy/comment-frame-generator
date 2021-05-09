@@ -37,7 +37,7 @@
     "keybindings": [
       {
         "command": "comment-frame-generator.generateFrame",
-        "key": "Alt+="
+        "key": "Ctrl+k Ctrl+e"
       }
     ],
     "menus": {
